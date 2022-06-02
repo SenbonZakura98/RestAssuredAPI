@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+    <listener class-name="com.Extentreport.ExtentReporting" />
+    </listeners>
+
+
+    <test verbose="2" preserve-order="true" name="C:/Users/bassv/intellij-workspace/Rest-Assured-Final">
+        <classes>
+            <class name="com.Rest.DELETEOperation">
+                <methods>
+                    <include name="delete_customer_by_id"/>
+                </methods>
+            </class>
+            <class name="com.Rest.GETOperation">
+                <methods>
+                    <include name="get_all_EmployeeDetails"/>
+                    <include name="search_Employee_By_Job_Title"/>
+                </methods>
+            </class>
+            <class name="com.Rest.POSTOperation">
+                <methods>
+                    <include name="Add_a_record_in_City"/>
+                </methods>
+            </class>
+            <class name="com.Rest.PUTOperation">
+                <methods>
+                    <include name="update_a_record_in_customers"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

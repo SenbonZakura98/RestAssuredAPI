@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <listeners>
+    <listener class-name="com.Extentreport.ExtentReporting"/>
+  </listeners>
+  <test thread-count="5" name="C:/Users/bassv/intellij-workspace/Rest-Assured-Final(failed)">
+    <classes>
+      <class name="com.Rest.DELETEOperation">
+        <methods>
+          <include name="delete_customer_by_id"/>
+        </methods>
+      </class> <!-- com.Rest.DELETEOperation -->
+      <class name="com.Rest.PUTOperation">
+        <methods>
+          <include name="update_a_record_in_customers"/>
+        </methods>
+      </class> <!-- com.Rest.PUTOperation -->
+    </classes>
+  </test> <!-- C:/Users/bassv/intellij-workspace/Rest-Assured-Final(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

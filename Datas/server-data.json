@@ -1,0 +1,557 @@
+{
+  "CustomersDetails": [
+    {
+      "id": 168,
+      "contactLastName": "SARAH",
+      "contactFirstName": "HOQUE",
+      "phone": "2035557845",
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "state": "CT",
+      "postalCode": "97823",
+      "country": "ALGRIA",
+      "salesRepEmployeeNumber": 1286,
+      "creditLimit": 0
+    },
+    {
+      "id": 171,
+      "customerName": "Daedalus Designs Imports",
+      "contactLastName": "Rancé",
+      "contactFirstName": "Martine ",
+      "phone": "20.16.1555",
+      "addressLine1": "184, chaussée de Tournai",
+      "addressLine2": null,
+      "city": "Lille",
+      "state": null,
+      "postalCode": "59000",
+      "country": "France",
+      "salesRepEmployeeNumber": 1370,
+      "creditLimit": 82900
+    },
+    {
+      "id": 172,
+      "customerName": "La Corne D'abondance, Co.",
+      "contactLastName": "Bertrand",
+      "contactFirstName": "Marie",
+      "phone": "(1) 42.34.2555",
+      "addressLine1": "265, boulevard Charonne",
+      "addressLine2": null,
+      "city": "Paris",
+      "state": null,
+      "postalCode": "75012",
+      "country": "France",
+      "salesRepEmployeeNumber": 1337,
+      "creditLimit": 84300
+    },
+    {
+      "id": 173,
+      "customerName": "Cambridge Collectables Co.",
+      "contactLastName": "Tseng",
+      "contactFirstName": "Jerry",
+      "phone": "6175555555",
+      "addressLine1": "4658 Baden Av.",
+      "addressLine2": null,
+      "city": "Cambridge",
+      "state": "MA",
+      "postalCode": "51247",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1188,
+      "creditLimit": 43400
+    },
+    {
+      "id": 175,
+      "customerName": "Gift Depot Inc.",
+      "contactLastName": "King",
+      "contactFirstName": "Julie",
+      "phone": "2035552570",
+      "addressLine1": "25593 South Bay Ln.",
+      "addressLine2": null,
+      "city": "Bridgewater",
+      "state": "CT",
+      "postalCode": "97562",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1323,
+      "creditLimit": 84300
+    },
+    {
+      "id": 177,
+      "customerName": "Osaka Souveniers Co.",
+      "contactLastName": "Kentary",
+      "contactFirstName": "Mory",
+      "phone": "+81 06 6342 5555",
+      "addressLine1": "1-6-20 Dojima",
+      "addressLine2": null,
+      "city": "Kita-ku",
+      "state": "Osaka",
+      "postalCode": " 530-0003",
+      "country": "Japan",
+      "salesRepEmployeeNumber": 1621,
+      "creditLimit": 81200
+    },
+    {
+      "id": 205,
+      "customerName": "Someone",
+      "contactLastName": "SomeOne",
+      "contactFirstName": "Veysel",
+      "phone": "1122233444",
+      "addressLine1": "Brehmen St. 121",
+      "addressLine2": "PR 334 Sentrum",
+      "city": "Bergen",
+      "state": null,
+      "postalCode": "N 5804",
+      "country": "Norway  ",
+      "salesRepEmployeeNumber": 1504,
+      "creditLimit": 96800
+    },
+    {
+      "id": 206
+    },
+    {
+      "customerName": "Amel Boucetta",
+      "contactLastName": "Oeztan",
+      "contactFirstName": "Veysel",
+      "phone": "+47 2267 3215",
+      "addressLine1": "Brehmen St. 121",
+      "addressLine2": "PR 334 Sentrum",
+      "city": "Bergen",
+      "state": null,
+      "postalCode": "N 5804",
+      "country": "Norway  ",
+      "salesRepEmployeeNumber": 1504,
+      "creditLimit": 96800,
+      "id": 213
+    },
+    {
+      "customerName": "American Souvenirs Inc",
+      "contactLastName": "SARAH",
+      "contactFirstName": "HOQUE",
+      "phone": "2035557845",
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "state": "CT",
+      "postalCode": "97823",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1286,
+      "creditLimit": 0,
+      "id": 214
+    },
+    {
+      "customerName": "American Souvenirs Inc",
+      "contactLastName": "SARAH",
+      "contactFirstName": "HOQUE",
+      "phone": "2035557845",
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "state": "CT",
+      "postalCode": "97823",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1286,
+      "creditLimit": 0,
+      "id": 215
+    },
+    {
+      "customerName": "American Souvenirs Inc",
+      "contactLastName": "",
+      "contactFirstName": "",
+      "phone": "2035557845",
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "state": "CT",
+      "postalCode": "97823",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1286,
+      "creditLimit": 0,
+      "id": 216
+    },
+    {
+      "customerName": "American Souvenirs Inc",
+      "contactLastName": "null",
+      "contactFirstName": "null",
+      "phone": "2035557845",
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "state": "CT",
+      "postalCode": "97823",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1286,
+      "creditLimit": 0,
+      "id": 217
+    },
+    {
+      "customerName": "American Souvenirs Inc",
+      "contactLastName": null,
+      "contactFirstName": null,
+      "phone": "2035557845",
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "state": "CT",
+      "postalCode": "97823",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1286,
+      "creditLimit": 0,
+      "id": 218
+    },
+    {
+      "customerName": "American Souvenirs Inc",
+      "phone": "2035557845",
+      "addressLine1": "149 Spinnaker Dr.",
+      "addressLine2": "Suite 101",
+      "city": "New Haven",
+      "state": "CT",
+      "postalCode": "97823",
+      "country": "USA",
+      "salesRepEmployeeNumber": 1286,
+      "creditLimit": 0,
+      "id": 219
+    },
+    {
+      "contactFirstName": "Martine ",
+      "phone": "20.16.1555",
+      "addressLine1": "184, chaussée de Tournai",
+      "addressLine2": null,
+      "city": "Lille",
+      "state": null,
+      "postalCode": "59000",
+      "country": "France",
+      "salesRepEmployeeNumber": 1370,
+      "creditLimit": 82900,
+      "id": 220
+    },
+    {
+      "contactFirstName": "Martine ",
+      "phone": "20.16.1555",
+      "addressLine1": "184, chaussée de Tournai",
+      "addressLine2": null,
+      "city": "Lille",
+      "state": null,
+      "postalCode": "59000",
+      "country": "France",
+      "salesRepEmployeeNumber": 1370,
+      "creditLimit": 82900,
+      "id": 221
+    }
+  ],
+  "EmployeeDetails": [
+    [
+      {
+        "id": 200,
+        "lastName": "Murphy",
+        "firstName": "Diane",
+        "extension": "x5800",
+        "email": "dmurphy@classicmodelcars.com",
+        "officeCode": "1",
+        "reportsTo": null,
+        "jobTitle": "President"
+      },
+      {
+        "id": 201,
+        "lastName": "Patterson",
+        "firstName": "Mary",
+        "extension": "x4611",
+        "email": "mpatterso@classicmodelcars.com",
+        "officeCode": "1",
+        "reportsTo": 1002,
+        "jobTitle": "VP Sales"
+      },
+      {
+        "id": 202,
+        "lastName": "Firrelli",
+        "firstName": "Jeff",
+        "extension": "x9273",
+        "email": "jfirrelli@classicmodelcars.com",
+        "officeCode": "1",
+        "reportsTo": 1002,
+        "jobTitle": "VP Marketing"
+      },
+      {
+        "id": 203,
+        "lastName": "Patterson",
+        "firstName": "William",
+        "extension": "x4871",
+        "email": "wpatterson@classicmodelcars.com",
+        "officeCode": "6",
+        "reportsTo": 1056,
+        "jobTitle": "Sales Manager (APAC)"
+      },
+      {
+        "id": 204,
+        "lastName": "Gerard",
+        "firstName": "Martin",
+        "extension": "x2312",
+        "email": "mgerard@classicmodelcars.com",
+        "officeCode": "4",
+        "reportsTo": 1102,
+        "jobTitle": "Sales Rep"
+      }
+    ],
+    {
+      "id": 205,
+      "lastName": "Jobs",
+      "firstName": "Steve",
+      "extension": "289901",
+      "email": "someone@gmail.com",
+      "officeCode": "33",
+      "reportsTo": "Me",
+      "jobTitle": "Presidents"
+    },
+    {
+      "lastName": "Rashid",
+      "firstName": "Nafis",
+      "extension": "x5800",
+      "email": "dmurphy@classicmodelcars.com",
+      "officeCode": "1",
+      "reportsTo": null,
+      "jobTitle": "President",
+      "id": 206
+    },
+    {
+      "lastName": "Rashid",
+      "firstName": "Nafis",
+      "extension": "x5800",
+      "email": "dmurphy@classicmodelcars.com",
+      "officeCode": "1",
+      "reportsTo": null,
+      "jobTitle": "President",
+      "id": 207
+    },
+    {
+      "lastName": "Rashid",
+      "firstName": "Nafis",
+      "extension": "x5800",
+      "email": "dmurphy@classicmodelcars.com",
+      "officeCode": "1",
+      "reportsTo": null,
+      "jobTitle": "President",
+      "id": 208
+    }
+  ],
+  "Orders": [
+    [
+      {
+        "id": "1",
+        "city": "San Francisco",
+        "phone": "+1 650 219 4782",
+        "addressLine1": "100 Market Street",
+        "addressLine2": "Suite 300",
+        "state": "CA",
+        "country": "USA",
+        "postalCode": "94080",
+        "territory": "NA"
+      },
+      {
+        "id": "2",
+        "city": "Boston",
+        "phone": "+1 215 837 0825",
+        "addressLine1": "1550 Court Place",
+        "addressLine2": "Suite 102",
+        "state": "MA",
+        "country": "USA",
+        "postalCode": "02107",
+        "territory": "NA"
+      },
+      {
+        "id": "3",
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "postalCode": "10022",
+        "territory": "NA"
+      },
+      {
+        "id": "4",
+        "city": "Paris",
+        "phone": "+33 14 723 4404",
+        "addressLine1": "43 Rue Jouffroy D'abbans",
+        "addressLine2": null,
+        "state": null,
+        "country": "France",
+        "postalCode": "75017",
+        "territory": "EMEA"
+      },
+      {
+        "id": "5",
+        "city": "Tokyo",
+        "phone": "+81 33 224 5000",
+        "addressLine1": "4-1 Kioicho",
+        "addressLine2": null,
+        "state": "Chiyoda-Ku",
+        "country": "Japan",
+        "postalCode": "102-8578",
+        "territory": "Japan"
+      },
+      {
+        "id": "6",
+        "city": "Sydney",
+        "phone": "+61 2 9264 2451",
+        "addressLine1": "5-11 Wentworth Avenue",
+        "addressLine2": "Floor #2",
+        "state": null,
+        "country": "Australia",
+        "postalCode": "NSW 2010",
+        "territory": "APAC"
+      },
+      {
+        "id": "7",
+        "city": "London",
+        "phone": "+44 20 7877 2041",
+        "addressLine1": "25 Old Broad Street",
+        "addressLine2": "Level 7",
+        "state": null,
+        "country": "UK",
+        "postalCode": "EC2N 1HN",
+        "territory": "EMEA"
+      }
+    ]
+  ],
+  "Salary": [
+    [
+      {
+        "id": 103,
+        "checkNumber": "HQ336336",
+        "paymentDate": "2004-10-19",
+        "amount": 6066.78
+      },
+      {
+        "id": 103,
+        "checkNumber": "JM555205",
+        "paymentDate": "2003-06-05",
+        "amount": 14571.44
+      },
+      {
+        "id": 103,
+        "checkNumber": "OM314933",
+        "paymentDate": "2004-12-18",
+        "amount": 1676.14
+      },
+      {
+        "id": 112,
+        "checkNumber": "BO864823",
+        "paymentDate": "2004-12-17",
+        "amount": 14191.12
+      },
+      {
+        "id": 112,
+        "checkNumber": "HQ55022",
+        "paymentDate": "2003-06-06",
+        "amount": 32641.98
+      },
+      {
+        "id": 112,
+        "checkNumber": "ND748579",
+        "paymentDate": "2004-08-20",
+        "amount": 33347.88
+      },
+      {
+        "id": 141,
+        "checkNumber": "NU627706",
+        "paymentDate": "2004-05-17",
+        "amount": 26155.91
+      },
+      {
+        "id": 144,
+        "checkNumber": "IR846303",
+        "paymentDate": "2004-12-12",
+        "amount": 36005.71
+      },
+      {
+        "id": 144,
+        "checkNumber": "LA685678",
+        "paymentDate": "2003-04-09",
+        "amount": 7674.94
+      },
+      {
+        "id": 145,
+        "checkNumber": "CN328545",
+        "paymentDate": "2004-07-03",
+        "amount": 4710.73
+      },
+      {
+        "id": 145,
+        "checkNumber": "ED39322",
+        "paymentDate": "2004-04-26",
+        "amount": 28211.7
+      },
+      {
+        "id": 145,
+        "checkNumber": "HR182688",
+        "paymentDate": "2004-12-01",
+        "amount": 20564.86
+      },
+      {
+        "id": 145,
+        "checkNumber": "JJ246391",
+        "paymentDate": "2003-02-20",
+        "amount": 53959.21
+      },
+      {
+        "id": 146,
+        "checkNumber": "FP549817",
+        "paymentDate": "2004-03-18",
+        "amount": 40978.53
+      },
+      {
+        "customerNumber": 146,
+        "checkNumber": "FU793410",
+        "paymentDate": "2004-01-16",
+        "amount": 49614.72
+      },
+      {
+        "id": 146,
+        "checkNumber": "LJ160635",
+        "paymentDate": "2003-12-10",
+        "amount": 39712.1
+      },
+      {
+        "id": 148,
+        "checkNumber": "BI507030",
+        "paymentDate": "2003-04-22",
+        "amount": 44380.15
+      }
+    ],
+    {
+      "id": 104
+    },
+    {
+      "id": 105
+    },
+    {
+      "checkNumber": "HQ336336",
+      "paymentDate": "2022-04-24",
+      "amount": 6066.78,
+      "id": 106
+    },
+    {
+      "checkNumber": "HQ336336",
+      "paymentDate": "2022-04-24",
+      "amount": 6066.78,
+      "id": 107
+    },
+    {
+      "checkNumber": "HQ336336",
+      "paymentDate": "2022-04-24",
+      "amount": 6066.78,
+      "id": 108
+    },
+    {
+      "checkNumber": "HQ336336",
+      "paymentDate": "2022-04-24",
+      "amount": 6066.78,
+      "id": 109
+    },
+    {
+      "checkNumber": "HQ336336",
+      "paymentDate": "2020-10-20",
+      "amount": 4185.32,
+      "id": 110
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="1459" started-at="2022-05-04T11:04:28 EDT" finished-at="2022-05-04T11:04:29 EDT">
+    <groups>
+    </groups>
+    <test name="C:/Users/bassv/intellij-workspace/Rest-Assured-Final" duration-ms="1459" started-at="2022-05-04T11:04:28 EDT" finished-at="2022-05-04T11:04:29 EDT">
+      <class name="com.Rest.DELETEOperation">
+        <test-method status="PASS" signature="delete_customer_by_id()[pri:0, instance:com.Rest.DELETEOperation@780cb77]" name="delete_customer_by_id" duration-ms="1049" started-at="2022-05-04T11:04:28 EDT" finished-at="2022-05-04T11:04:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_customer_by_id -->
+      </class> <!-- com.Rest.DELETEOperation -->
+      <class name="com.Rest.PUTOperation">
+        <test-method status="PASS" signature="update_a_record_in_customers()[pri:0, instance:com.Rest.PUTOperation@50a7bc6e]" name="update_a_record_in_customers" duration-ms="232" started-at="2022-05-04T11:04:29 EDT" finished-at="2022-05-04T11:04:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_a_record_in_customers -->
+      </class> <!-- com.Rest.PUTOperation -->
+      <class name="com.Rest.GETOperation">
+        <test-method status="PASS" signature="get_all_EmployeeDetails()[pri:0, instance:com.Rest.GETOperation@691a7f8f]" name="get_all_EmployeeDetails" duration-ms="49" started-at="2022-05-04T11:04:29 EDT" finished-at="2022-05-04T11:04:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_all_EmployeeDetails -->
+        <test-method status="PASS" signature="search_Employee_By_Job_Title()[pri:0, instance:com.Rest.GETOperation@691a7f8f]" name="search_Employee_By_Job_Title" duration-ms="56" started-at="2022-05-04T11:04:29 EDT" finished-at="2022-05-04T11:04:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Employee_By_Job_Title -->
+      </class> <!-- com.Rest.GETOperation -->
+    </test> <!-- C:/Users/bassv/intellij-workspace/Rest-Assured-Final -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
